@@ -1,0 +1,21 @@
+                                              
+                                        mobiles store website
+
+
+  Home page :
+
+ 1- show mobiles phones names and it's prices.
+ 2- onclick a mobile move to mobile page to know it's prperties , advantages 
+    , disadvatages and price .
+ 3- you can make an order to buy the mobile from the website , but in this case 
+    you must be loged in the website.
+ 
+
+  Dashboard ( panel page ) :
+
+ 1- add or remove mobiles with it's data .
+ 2- edit existing mobile pages .
+ 3- add or remove new users .
+ 4- add or remvoe admins .
+ 5- confirm orders of purchase from users .
+
